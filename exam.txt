@@ -1,0 +1,37 @@
+SECTION 1
+1-C
+2-C
+3-B
+4-A
+5-A
+6-D
+7-B
+8 its an instuction to the browser about the version of HTML
+9-
+10-C
+
+CSS
+1-B
+2-A
+3-B
+4-D
+5-CASCADING STYLE SHEET
+6-D
+7-C
+8-D
+9
+10-
+
+BOOTSTRAP
+1-D
+2-B
+3-B
+4-B
+5-C
+6-C
+7-B
+8-B
+9-D
+10-
+
+JAVASCRIPT(part A)
